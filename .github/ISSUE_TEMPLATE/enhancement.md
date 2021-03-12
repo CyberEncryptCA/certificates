@@ -1,6 +1,6 @@
 ---
 name: Certificates Enhancement
-about: Suggest an enhancement to step certificates
+about: Suggest an enhancement to CyberEncrypt certificates
 title: ''
 labels: enhancement, needs triage
 assignees: ''
