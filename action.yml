@@ -1,8 +1,8 @@
 name: Daily Standup
 on:
   schedule:
-  # Every day at noon
-  - cron: 0 12 * * * 
+  # Every day at 11:30
+  - cron: 30 11 * * * 
 
 jobs:
   daily_standup:
