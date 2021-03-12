@@ -17,8 +17,8 @@ jobs:
     - name: New standup issue
       uses: imjohnbo/issue-bot@v3
       with:
-        assignees: ""
-        labels: "standup"
+        assignees: "AdityaCyberSafe"
+        labels: "Internal Task"
         title: Standup
         body: |-
           :wave: Hi, {{#each assignees}}@{{this}}{{#unless @last}}, {{/unless}}{{/each}}!
